@@ -60,14 +60,11 @@ plugins:
 author:
   name   : "Steve Hornyak"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hardware Engineer; Graduate from the University of Southern California, BS in Computer Engineering and Computer Science"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://stevehornyak.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SteveHornyak"
@@ -77,9 +74,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SteveHornyak"
