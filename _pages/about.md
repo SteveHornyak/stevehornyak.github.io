@@ -12,6 +12,7 @@ Along with this classwork, I have interned at RoviSys as a Systems Engineering C
 Along with my experience in terms of Hardware Engineering, I also have plenty of classwork and experience in the Software Engineering field. Along with my skills in C/C++ and Git, I also have experience with Python, Java, SQL, OpenGL and Embedded C. Furthermore, I have a great background with REST APIs, IP Networking, Algorithm Development, Computer Graphics, Video Game Programming and Operating System Development. My work experience in the Software Engineering field comes from when I interned at the USC Credit Union, developing algorithms and data management for the credit union employees and customers.
 
 On a more personal level, I like to read, play and listen to music and enjoy fitness, such as weightlifting.
+
 If you have any questions, please feel free to contact me through LinkedIn, or by email. My email is sphornyak4@gmail.com. Thank you and have a wonderful day!
 
 -Steve Hornyak
